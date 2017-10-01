@@ -26,5 +26,4 @@ shim-signed
 #if ARCHITECTURES i386
 grub-efi-ia32
 grub-efi-ia32-bin
-sl-modem-daemon
 #endif

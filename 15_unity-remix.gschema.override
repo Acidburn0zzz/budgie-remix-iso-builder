@@ -80,8 +80,6 @@ volumes-visible=false
 default-zoom-level='small'
 
 [org.gnome.nautilus.preferences]
-sort-directories-first=true
-enable-interactive-search=true
 open-folder-on-dnd-hover=false
 
 [org.gnome.rhythmbox.encoding-settings]

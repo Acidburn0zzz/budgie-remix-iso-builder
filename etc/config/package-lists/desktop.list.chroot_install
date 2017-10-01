@@ -54,9 +54,6 @@ ubuntu-wallpapers
 ttf-ubuntu-font-family
 gnome-sushi
 resolvconf
-account-plugin-facebook
-account-plugin-flickr
-account-plugin-google
 accountsservice-ubuntu-schemas
 acl
 aisleriot
@@ -67,7 +64,6 @@ apturl
 avahi-autoipd
 baobab
 brltty
-content-hub
 dc
 deja-dup
 ed
@@ -91,8 +87,6 @@ gucharmap
 history-service
 hplip
 ibus-table
-indicator-transfer
-indicator-transfer-download-manager
 info
 inputattach
 install-info
@@ -122,7 +116,6 @@ pulseaudio-module-bluetooth
 python-ldb
 python3-checkbox-support
 python3-commandnotfound
-python3-guacomole
 python3-padme
 python3-pil
 python3-psutil
@@ -135,11 +128,8 @@ sessioninstaller
 thumbnailer-service
 time
 transmission-gtk
-ubuntu-printing-app
 ubuntu-sounds
 ubuntu-standard
-ubuntu-system-settings
-ubuntu-system-settings-online-accounts
 ureadahead
 url-dispatcher
 url-dispatcher-tools

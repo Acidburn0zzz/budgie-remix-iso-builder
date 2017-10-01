@@ -22,9 +22,3 @@ grub-efi-amd64-signed
 shim
 shim-signed
 #endif
-
-#if ARCHITECTURES i386
-grub-efi-ia32
-grub-efi-ia32-bin
-sl-modem-daemon
-#endif

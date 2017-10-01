@@ -30,21 +30,6 @@ language-pack-es
 wspanish
 firefox-locale-es
 
-# fonts
-fonts-guru
-fonts-kacst-one
-fonts-khmeros-core
-fonts-lao
-fonts-liberation
-fonts-lklug-sinhala
-fonts-nanum
-fonts-noto-cjk
-fonts-sil-abyssinica
-fonts-sil-padauk
-fonts-takao-pgothic
-fonts-thai-tlwg
-fonts-tibetan-machine
-
 localechooser-data
 locales
 language-selector-common

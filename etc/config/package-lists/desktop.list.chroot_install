@@ -27,7 +27,7 @@ simple-scan
 software-properties-gtk
 system-config-printer
 tango-icon-theme
-ubuntu-software
+gnome-software
 update-manager
 zenity
 gtk3-nocsd
@@ -124,7 +124,6 @@ python3-speechd
 rfkill
 seahorse
 secureboot-db
-sessioninstaller
 thumbnailer-service
 time
 transmission-gtk
@@ -137,3 +136,5 @@ usb-creator-gtk
 x11-session-utils
 xbitmaps
 xcursor-themes
+localehelper
+locales-all
